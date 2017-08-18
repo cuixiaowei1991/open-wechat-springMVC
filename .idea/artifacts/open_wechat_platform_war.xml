@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="open-wechat-platform:war">
+    <output-path>$PROJECT_DIR$/out</output-path>
+    <root id="archive" name="open.wechat.plat.war">
+      <element id="artifact" artifact-name="open-wechat-platform:war exploded" />
+    </root>
+  </artifact>
+</component>

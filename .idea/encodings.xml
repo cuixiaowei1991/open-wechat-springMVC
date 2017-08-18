@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/cn/MsgCode/MsgAndCode.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/cn/cache/AuthorizerInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/cn/cache/AuthorizerInfoMap.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/cn/cache/ComponentAccessTokenMap.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/cn/cache/ComponentVerifyTicket.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/cn/cache/JsapiticketInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/cn/cache/JsapiticketInfoMap.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/cn/cache/PreAuthCodeMap.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/cn/common/LogHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/cn/common/MailAuthenticatorHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/cn/common/MailSenderHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/cn/common/WeChatCommon/AesException.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/cn/common/WeChatCommon/ByteGroup.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/cn/common/WeChatCommon/MD5.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/cn/common/WeChatCommon/PKCS7Encoder.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/cn/common/WeChatCommon/SHA1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/cn/common/WeChatCommon/WXBizMsgCrypt.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/cn/common/WeChatCommon/WeiXinDecode.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/cn/common/WeChatCommon/WxCardSign.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/cn/common/WeChatCommon/XMLParse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/js/common.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/success.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/wechat_auth.html" charset="GBK" />
+  </component>
+</project>
